@@ -1,5 +1,7 @@
 const Discord = require("discord.js");
 const { Client, Intents, Collection } = require("discord.js");
+const dotenv = require("dotenv");
+dotenv.config();
 
 const client = new Client({
   intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES],
@@ -12,4 +14,4 @@ client.events = new Collection();
   require(`./handlers/${handler}`)(client, Discord);
 });
 
-client.login("OTMyMjIzMTkyNzcxMjExMzA0.YeP2gQ.N0cTQPM7F1AvEQ_BzDdqriBBI5w");
+client.login(process.env.TOKEN);

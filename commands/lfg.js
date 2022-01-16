@@ -40,7 +40,7 @@ module.exports = {
     }
 
     function addUserQueue(author, type) {
-      const newPlayer = { name: author.username, id: author.id, time: 30 };
+      const newPlayer = { name: author.username, id: author.id, time: 0 };
       if (type === "pc") {
         if (pcQueue.filter((e) => e.name === author.username).length > 0) {
           return;
