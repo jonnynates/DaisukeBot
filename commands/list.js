@@ -28,7 +28,7 @@ module.exports = {
 
       if (players.length > 0) {
         newEmbed.setDescription(players.join("\n"));
-      } else if (players.length < 0) {
+      } else if (players.length <= 0) {
         newEmbed.setDescription("No members play this character");
       }
     } catch (error) {
