@@ -21,6 +21,11 @@
       "display": "Ramlethal"
     },
     {
+      "character": "ramlethal",
+      "id": "931896558331498546",
+      "display": "Ramlethal"
+    },
+    {
       "character": "chipp",
       "id": "931898287861145630",
       "display": "Chipp"
@@ -56,6 +61,11 @@
       "display": "I-no"
     },
     {
+      "character": "ino",
+      "id": "931898900401496075",
+      "display": "I-no"
+    },
+    {
       "character": "faust",
       "id": "931897187787493426",
       "display": "Faust"
@@ -72,6 +82,11 @@
     },
     {
       "character": "jack-o",
+      "id": "931897086092406844",
+      "display": "Jack-O"
+    },
+    {
+      "character": "jacko",
       "id": "931897086092406844",
       "display": "Jack-O"
     },
@@ -99,6 +114,31 @@
       "character": "nagoriyuki",
       "id": "931901281696645160",
       "display": "Nagoriyuki"
+    },
+    {
+      "character": "baiken",
+      "id": "942792237262200862",
+      "display": "Baiken"
+    },
+    {
+      "character": "happy chaos",
+      "id": "942792067543867462",
+      "display": "Happy Chaos"
+    },
+    {
+      "character": "happy",
+      "id": "942792067543867462",
+      "display": "Happy Chaos"
+    },
+    {
+      "character": "chaos",
+      "id": "942792067543867462",
+      "display": "Happy Chaos"
+    },
+    {
+      "character": "hc",
+      "id": "942792067543867462",
+      "display": "Happy Chaos"
     }
   ]
 }
