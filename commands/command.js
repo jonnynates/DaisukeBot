@@ -14,6 +14,7 @@ module.exports = {
           value:
             "You can use '.lfg pc' or '.lfg ps4' to find games.\n If you're done looking for a game type '.lfg pc -' or '.lfg ps4 -' to remove yourself from the queue",
         },
+        { name: ".list", value: "You can use '.list character_name' to see a full list of people on the server that play that character" },
         { name: ".command", value: "Get a full list of server commands" }
       );
 

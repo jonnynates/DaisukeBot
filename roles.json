@@ -1,0 +1,104 @@
+{
+  "characters": [
+    {
+      "character": "may",
+      "id": "931897756006637608",
+      "display": "May"
+    },
+    {
+      "character": "sol",
+      "id": "931896974876246027",
+      "display": "Sol"
+    },
+    {
+      "character": "goldlewis",
+      "id": "931899292984172585",
+      "display": "Goldlewis"
+    },
+    {
+      "character": "ram",
+      "id": "931896558331498546",
+      "display": "Ramlethal"
+    },
+    {
+      "character": "chipp",
+      "id": "931898287861145630",
+      "display": "Chipp"
+    },
+    {
+      "character": "ky",
+      "id": "931896890243579904",
+      "display": "Ky"
+    },
+    {
+      "character": "millia",
+      "id": "931898300242739200",
+      "display": "Millia"
+    },
+    {
+      "character": "axl",
+      "id": "931897762084163634",
+      "display": "Axl"
+    },
+    {
+      "character": "zato",
+      "id": "931898316688592906",
+      "display": "Zato"
+    },
+    {
+      "character": "anji",
+      "id": "931898999970078740",
+      "display": "Anji"
+    },
+    {
+      "character": "i-no",
+      "id": "931898900401496075",
+      "display": "I-no"
+    },
+    {
+      "character": "faust",
+      "id": "931897187787493426",
+      "display": "Faust"
+    },
+    {
+      "character": "pot",
+      "id": "931897742207356988",
+      "display": "Potemkin"
+    },
+    {
+      "character": "potemkin",
+      "id": "931897742207356988",
+      "display": "Potemkin"
+    },
+    {
+      "character": "jack-o",
+      "id": "931897086092406844",
+      "display": "Jack-O"
+    },
+    {
+      "character": "leo",
+      "id": "931898325240786945",
+      "display": "Leo"
+    },
+    {
+      "character": "gio",
+      "id": "931896785209794612",
+      "display": "Giovanna"
+    },
+    {
+      "character": "giovanna",
+      "id": "931896785209794612",
+      "display": "Giovanna"
+    },
+    {
+      "character": "nago",
+      "id": "931901281696645160",
+      "display": "Nagoriyuki"
+    },
+    {
+      "character": "nagoriyuki",
+      "id": "931901281696645160",
+      "display": "Nagoriyuki"
+    }
+  ]
+}
